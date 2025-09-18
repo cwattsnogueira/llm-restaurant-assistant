@@ -46,7 +46,7 @@ This project demonstrates how to build and evaluate a modular AI assistant for r
 
 ---
 
-## 📊 Evaluation Results
+##  Evaluation Results
 
 Static evaluation was performed on 5 test cases using predefined prompts and expected categories.
 
