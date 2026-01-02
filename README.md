@@ -99,4 +99,5 @@ These examples simulate how the assistant supports restaurant staff with clear, 
 - Integrate LangFuse-style logging  
 - Expand training Q&A with quiz scoring  
 - Deploy permanently and track usage metrics
+  -- Deployment by cloud run and vertex ai    
 
